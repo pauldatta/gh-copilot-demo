@@ -1,4 +1,6 @@
-openai==1.10.0
+openai
 python-dotenv
 yfinance
 pillow
+requests
+typing
