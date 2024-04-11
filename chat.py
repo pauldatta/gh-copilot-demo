@@ -1,7 +1,6 @@
 import os
 from dotenv import load_dotenv
 from openai import AzureOpenAI
-import requests
 
 load_dotenv()
 
